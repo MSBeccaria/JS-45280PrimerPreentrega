@@ -18,6 +18,6 @@
     } else{
         console.log("Introduce un valor válido")
     } 
-} while(isNaN(imc))
-console.log(imc)
+} while(imc=isNaN)
+console.log
    
